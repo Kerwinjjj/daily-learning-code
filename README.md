@@ -12,6 +12,9 @@
 | 2026-11-04 | C 存储与链接属性：const/extern/volatile | const 三写法（demo1）、extern 跨文件共享（demo2 双文件）、volatile 优化实测（demo3）、面试题解答 |
 | 2026-11-05 | 堆内存：malloc/free、野指针、内存泄漏 | 正确封装动态数组（demo1，判 NULL + free 置空）、free 后继续用的错误版（demo2）、思考题解答 |
 | 2026-11-06 | 结构体、结构体指针、内存对齐 | 结构体指针访问 + offsetof（demo1）、默认对齐/重排/packed 对比（demo2）、串口帧打包（demo3）、口述题解答 |
+| 2026-11-10 | 函数指针、回调函数、命令表 | 函数指针基础与统一接口（demo1）、命令表串口指令分发（demo2）、typedef 三种写法等价（demo3）、口述题解答 |
+| 2026-11-11 | 多文件模块化工程 | test.h / test.c / main.c 三文件拆分、头文件保护宏、声明与定义分离、两个高频报错实测 |
+| 2026-11-12 | 宏定义、条件编译、typedef | 危险宏对比与 inline 对照（demo1）、typedef 与 #define 别名对比（demo2）、两块板子条件编译（demo3）、口述题解答 |
 
 ## 说明
 
